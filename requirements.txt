@@ -1,0 +1,6 @@
+pandas
+pyarrow
+azure.keyvault
+azure.identity
+azure-storage-blob
+ipykernel
